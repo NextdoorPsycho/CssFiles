@@ -1,0 +1,23 @@
+//META{"name":"Quiet","description":"Dark and Quiet. Easy on the eyes.","author":"Omniscient","version":"0.0"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://cdn.rawgit.com/MrRobotjs/Quiet/master/stylesheet.css");
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CUSTOMIZABLE COLORS =====
+*/
+:root { 
+    --main-color: #8d2036;
+    /* the main color. visibility: 90% */
+    --hover-color: #6f182a;
+    /* the darker shade of color that compliments your main color. visibility: 10% */
+    --universal-roundness: 1%;
+    /* the roundess of every avatar (50% for circles) */
+}
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
