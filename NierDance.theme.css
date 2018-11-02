@@ -2,8 +2,8 @@
 .appMount-3VJmYg,#app-mount .layers-3iHuyZ,#app-mount .layer-3QrUeG,#app-mount .guildsWrapper-5TJh6A,.channels-Ie2l6A,.container-PNkimc,#app-mount .chat-3bRxxu ,#app-mount .noChannel-Z1DQK7 ,#app-mount .chat-3bRxxu  form,#app-mount .content-yTz4x3,#app-mount .title-3qD0b-,#app-mount .members-1998pB,#app-mount .messagesWrapper-3lZDfY,#app-mount .headerBar-UHpsPw,#app-mount .activityFeed-28jde9,#app-mount .card-7JP0BX,#app-mount .header-1RC2Wb,.theme-dark .gameLibrary-TTDw4Y,#app-mount .applicationStore-1pNvnv,#app-mount .contentRegion-3nDuYy,#app-mount .sidebarRegion-VFTUkN,#app-mount #friends{background:transparent}
 
 /* main backgrounds */
-#app-mount .container-2lgZY8 {background: transparent url(https://images.wallpaperscraft.com/image/forest_fog_sunlight_126926_3840x2160.jpg) center/cover}
-#app-mount .standardSidebarView-3F1I7i{background: transparent url(https://images.wallpaperscraft.com/image/forest_fog_sunlight_126926_3840x2160.jpg) center/cover}
+#app-mount .container-2lgZY8 {background: transparent url(https://i.imgur.com/LdKlGhN.jpg) center/cover}
+#app-mount .standardSidebarView-3F1I7i{background: transparent url(https://goo.gl/PYe8hB) center/cover}
 
 /* Titlebar */
 .typeWindows-1za-n7{position: absolute;height:48px;width:100px;right:0;margin:0;box-shadow:0 1px 0 rgba(32,34,37,.2), 0 2px 0 rgba(0,0,0,.06)}
@@ -25,7 +25,7 @@
 .platform-win .splashBackground-1FRCko:before{height:48px;width:94.4%;left:0;top:0;box-shadow:0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);background:transparent;-webkit-app-region:drag;position: absolute;}
 
 /* Notice */
-.notice-2FJMB4{position: absolute;font-size:0;top:70px;left:50%}
+.notice-2FJMB4{position: absolute;top:70px;left:50%}
 
 /* Streamer */
 .noticeStreamerMode-2TSQpg{background:transparent;box-shadow:none}
